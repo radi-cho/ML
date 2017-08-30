@@ -1,2 +1,2 @@
 # ML
-Different simple Machine Learning projects 
+Simple Machine Learning and Neaural Network projects 

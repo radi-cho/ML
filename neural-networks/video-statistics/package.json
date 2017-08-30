@@ -1,0 +1,25 @@
+{
+  "name": "video-statistics",
+  "version": "1.0.0",
+  "description": "Simple neural network example",
+  "main": "index.js",
+  "author": "Radi Cho",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/radi-cho/ML.git"
+  },
+  "keywords": [
+    "neural",
+    "network"
+  ],
+  "bugs": {
+    "url": "https://github.com/radi-cho/ML/issues"
+  },
+  "homepage": "https://github.com/radi-cho/ML#readme",
+  "dependencies": {
+    "brain": "^0.7.0"
+  }
+}
