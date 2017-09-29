@@ -1,4 +1,6 @@
-Here you will view simple Neural Network example wrote by Radi Cho.
+# video-statistics
+
+*JavaScript Neural Network with brain.js wrote by Radi Cho*
 
 It using `brain.js` - `brain is a JavaScript neural network library`
 
